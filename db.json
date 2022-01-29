@@ -5,8 +5,8 @@
 	{ "id": "pedro", "pass": "345", "serviceResponse":"OK" }
   ],
   "erick":[
-		{ "TASKID":"1", "TASKNAME":"Task test",  "TASKDATE":"01/01/2021", "ISCHECKED":true, "LASTUPDATE":"02/01/2021"},
-		{ "TASKID":"2", "TASKNAME":"Here is another task test",  "TASKDATE":"01/01/2021", "ISCHECKED":true, "LASTUPDATE":"03/01/2021"},
+		{ "TASKID":"1", "TASKNAME":"Task test",  "TASKDATE":"01/01/2021", "ISCHECKED":false, "LASTUPDATE":"02/01/2021"},
+		{ "TASKID":"2", "TASKNAME":"Here is another task test",  "TASKDATE":"01/01/2021", "ISCHECKED":false, "LASTUPDATE":"03/01/2021"},
 		{ "TASKID":"3", "TASKNAME":"This is the middle task  ",  "TASKDATE":"01/01/2021", "ISCHECKED":false, "LASTUPDATE":"04/01/2021"},
 		{ "TASKID":"4", "TASKNAME":"This is the 4th task",  "TASKDATE":"01/01/2021", "ISCHECKED":false, "LASTUPDATE":"05/01/2021"},
 		{ "TASKID":"5", "TASKNAME":"The last task added",  "TASKDATE":"01/01/2021", "ISCHECKED":false, "LASTUPDATE":"06/01/2021"}
