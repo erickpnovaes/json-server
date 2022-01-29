@@ -1,0 +1,29 @@
+{
+  "users": [
+    { "id": "erick", "pass": "123", "serviceResponse":"OK" },
+	{ "id": "joao", "pass": "234", "serviceResponse":"OK" },
+	{ "id": "pedro", "pass": "345", "serviceResponse":"OK" }
+  ],
+  "erick":[
+		{ "TASKID":"1", "TASKNAME":"Task test",  "TASKDATE":"01/01/2021", "ISCHECKED":true, "LASTUPDATE":"02/01/2021"},
+		{ "TASKID":"2", "TASKNAME":"Here is another task test",  "TASKDATE":"01/01/2021", "ISCHECKED":true, "LASTUPDATE":"03/01/2021"},
+		{ "TASKID":"3", "TASKNAME":"This is a huge task test, with a lot of information",  "TASKDATE":"01/01/2021", "ISCHECKED":false, "LASTUPDATE":"04/01/2021"},
+		{ "TASKID":"4", "TASKNAME":"This is the task 4",  "TASKDATE":"01/01/2021", "ISCHECKED":false, "LASTUPDATE":"05/01/2021"},
+		{ "TASKID":"5", "TASKNAME":"The last task",  "TASKDATE":"01/01/2021", "ISCHECKED":false, "LASTUPDATE":"06/01/2021"}
+	],
+	"joao":[
+		{ "TASKID":"1", "TASKNAME":"",  "TASKDATE":"", "ISCHECKED":"", "LASTUPDATE":""},
+		{ "TASKID":"2", "TASKNAME":"",  "TASKDATE":"", "ISCHECKED":"", "LASTUPDATE":""},
+		{ "TASKID":"3", "TASKNAME":"",  "TASKDATE":"", "ISCHECKED":"", "LASTUPDATE":""},
+		{ "TASKID":"4", "TASKNAME":"",  "TASKDATE":"", "ISCHECKED":"", "LASTUPDATE":""},
+		{ "TASKID":"5", "TASKNAME":"",  "TASKDATE":"", "ISCHECKED":"", "LASTUPDATE":""},
+		{ "TASKID":"6", "TASKNAME":"",  "TASKDATE":"", "ISCHECKED":"", "LASTUPDATE":""},
+		{ "TASKID":"7", "TASKNAME":"",  "TASKDATE":"", "ISCHECKED":"", "LASTUPDATE":""},
+		{ "TASKID":"8", "TASKNAME":"",  "TASKDATE":"", "ISCHECKED":"", "LASTUPDATE":""},
+		{ "TASKID":"9", "TASKNAME":"",  "TASKDATE":"", "ISCHECKED":"", "LASTUPDATE":""}
+	],
+	"pedro":[]
+}
+
+
+
